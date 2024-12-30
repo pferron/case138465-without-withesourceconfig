@@ -1,0 +1,4 @@
+numpy==1.26.4
+urllib3==2.2.2
+pandera[io]==0.18.0
+requests==2.32.2
